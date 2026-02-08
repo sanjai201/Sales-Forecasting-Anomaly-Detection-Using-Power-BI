@@ -1,4 +1,4 @@
-<img width="940" height="534" alt="image" src="https://github.com/user-attachments/assets/ffd68776-d98a-458c-b034-216adafa782d" />📊 Sales Forecasting & Anomaly Detection Using Power BI
+📊 Sales Forecasting & Anomaly Detection Using Power BI
 
 This project demonstrates how a retail organization can move from reactive reporting to AI-powered predictive analytics using Power BI.
 It includes forecasting models, anomaly detection, seasonality insights, and automated smart narratives to support better business decisions.
@@ -148,4 +148,11 @@ Reduces dependency on manual analysis
 
 This Power BI project successfully transforms static sales reports into a predictive and intelligent analytics system.
 Using forecasting, anomaly detection, and smart narratives, this solution enables the retail organization to plan better, respond faster, and make confident decisions
+
+<img width="940" height="534" alt="image" src="https://github.com/user-attachments/assets/ffd68776-d98a-458c-b034-216adafa782d" />
+<img width="940" height="542" alt="image" src="https://github.com/user-attachments/assets/a16e36b0-9e18-4998-a00c-fa173669ed7f" />
+<img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/fd8db7e2-a57e-4fc7-9d5b-21e405aed113" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b42ecfab-c2af-4ebd-a3a7-e81a20500824" />
+<img width="686" height="1048" alt="image" src="https://github.com/user-attachments/assets/03e8d824-cb52-4a2b-ada9-3bdccaaf9595" />
+
 
